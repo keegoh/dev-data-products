@@ -1,0 +1,25 @@
+Developing Data Products
+========================================================
+date: 21 Feb 2015
+Fuel Economy of Cars
+
+Application Description
+========================================================
+This application allows the user to explore the mpg dataset from ggplot2 library and tweak the visualization by changing the input values.
+
+The Data
+========================================================
+This dataset consists of fuel economy data from 1999 and 2008 for 38 popular models of car, which is a subset of the fuel economy data made available by EPA on http://fueleconomy.gov. It contains only models which had a new release every year between 1999 and 2008 - this was used as a proxy for the popularity of the car.
+
+Data Summary
+========================================================
+
+```{r}
+library(ggplot2)
+data(mpg)
+str(mpg)
+```
+
+Application screenshot
+========================================================
+![screenshot](screenshot.png)
