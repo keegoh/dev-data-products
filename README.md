@@ -22,6 +22,6 @@ The dataset consists of 234 observations with 11 variables.
   
   
 #### Application Description
-Source code is available at [GitHub](https://github.com/y1n9/DevDataProd), and the project presentation can be found on [RPubs](http://rpubs.com/keegoh/61462).
+Source code is available at [GitHub](https://github.com/keegoh/dev-data-products), and the project presentation can be found on [RPubs](http://rpubs.com/keegoh/61462).
   
 The application allows the user to tweak the visualization and explore the dataset by changing the input values.
